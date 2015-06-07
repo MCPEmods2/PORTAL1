@@ -1,0 +1,17 @@
+//Portal gun plugin by:MCPEmods2
+// Portal plugin By:MCPEmods2
+
+//portal gun
+name.portalgun.v11
+press the up arrow button
+
+//portal
+/tp 100 90 40
+/tp 90 -90 1
+/tp 10000 -0 1
+
+//break
+press down
+destry(){
+
+//test
